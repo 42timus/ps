@@ -1,5 +1,5 @@
-[
- "posts": {
+{
+ "posts": [{
     "createdBy": null,
     "createdByFirstName": null,
     "createdByLastName": null,
@@ -30,5 +30,5 @@
     "organisationApprovalGroups": [],
     "userApproverDTOs": [],
     "trainingUser": false
-  }
-]
+  }]
+}
